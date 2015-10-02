@@ -1,0 +1,11 @@
+{
+  "name": "elementQuery-prod",
+  "main": "elementQuery.js",
+  "homepage": "https://github.com/tysonmatanich/elementQuery",
+  "description": "An element query polyfill you can use today.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "external"
+  ]
+}
